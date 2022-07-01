@@ -1,0 +1,31 @@
+body.home {
+    background-image: url("/public/images/bg-body.png");
+
+}
+
+/*header*/
+.home__header{
+text-align: center;
+}
+.home__header__logo img{
+width: 180px;
+margin: 15px 0 30px;
+border-radius: 50%;
+border: solid 2px #555555;
+
+}
+.home__header button{
+    width: 180px;
+    margin: 15px 0 30px;
+    font-size: 30px;
+    color :#202020
+    }
+.home__header__menu ul li{
+background-color: #202020;
+text-transform: uppercase;
+margin-bottom: 1px;
+padding: 8px 0;
+}
+
+/*main*/
+/*footer*/
